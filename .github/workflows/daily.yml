@@ -1,4 +1,4 @@
-name: Daily reward
+name: Daily rewards
 
 on:
   push:
